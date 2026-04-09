@@ -51,8 +51,11 @@ TreeFi prioritizes security by focusing on:
 ## 🌐 Official Links
 
 👉 **Website:** https://treefi.app 
+
 👉 **Whitepaper:** https://treefi.app/whitepaper
+
 👉 **Twitter/X:** https://x.com/@TreeFii 
+
 👉 **Community:** https://t.me/treefii3 
 
 
